@@ -8,9 +8,7 @@ Hi I'm Miriam Burch and live in Northern Virginia, however; I'm half Spanish, ha
 
 1. [Blumenstock Response](blumenstock.html)
 
-2. 
-
-3. 
+2. [Hans Rosling Response](hansroslingresponse.html)
 
 ## Formal Responses
 
