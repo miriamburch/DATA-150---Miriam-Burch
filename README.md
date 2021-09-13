@@ -6,6 +6,8 @@ Hi I'm Miriam Burch and live in Northern Virginia, however; I'm half Spanish, ha
 
 ![GitHub Logo](/images/logo.png)
 
+![Alt Text](url)
+
 #  Informal Responses
 
 1. [Blumenstock Response](blumenstock.html)
