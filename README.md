@@ -14,10 +14,10 @@ Hi I'm Miriam Burch and live in Northern Virginia, however; I'm half Spanish, ha
 
 ## Formal Responses
 
-1. [annotated bibliography](annotatedbibliography.html)
+1. [Annotated Bibliography](annotatedbibliography.html)
 
-2. [literature review](literaturereview.html)
+2. [Literature Review](literaturereview.html)
 
-3. [results](results.html)
+3. [Results](results.html)
 
-4. [research proposal](researchproposal.html)
+4. [Research Proposal](researchproposal.html)
