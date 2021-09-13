@@ -1,5 +1,9 @@
 # DATA150 Miriam Burch
+
 Evolving Solutions: Human Development/Data Science
+
 ## Informal Responses
-1. Blumenstock Response
+
+1. [blumenstock response](blumenstock.html)
+
 ## Formal Responses
