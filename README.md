@@ -6,7 +6,7 @@ Hi I'm Miriam Burch and live in Northern Virginia, however; I'm half Spanish, ha
 
 ##  Responses
 
-1. [blumenstock response](blumenstock.html)
+1. [Blumenstock Response](blumenstock.html)
 
 2. 
 
