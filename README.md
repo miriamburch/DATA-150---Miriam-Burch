@@ -1,4 +1,4 @@
-# Evolving Solutions: Human Development/Data Science
+Evolving Solutions: Human Development/Data Science
 
 # Introduction 
 
