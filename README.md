@@ -11,7 +11,7 @@ Hi I'm Miriam Burch and live in Northern Virginia, however; I'm half Spanish, ha
 
 #  Informal Responses
 
-1. [Blumenstock Response](blumenstock.md)
+1. [Blumenstock Response](blumenstock.html)
 
 2. [Hans Rosling Response](hansrosling.md)
 
