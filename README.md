@@ -15,6 +15,8 @@ Hi I'm Miriam Burch and live in Northern Virginia, however; I'm half Spanish, ha
 
 2. [Hans Rosling Response](hansrosling.md)
 
+3. [Owen Barder Response](owenbarder.md)
+
 # Formal Responses
 
 1. [Annotated Bibliography](annotatedbibliography.html)
