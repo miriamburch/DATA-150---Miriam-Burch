@@ -17,7 +17,7 @@ Hi I'm Miriam Burch and live in Northern Virginia, however; I'm half Spanish, ha
 
 3. [Owen Barder Response](owenbarder.md)
 
-4. [Human Development essay question](humandevelopment.md)
+4. [Human Development Essay](humandevelopment.md)
 
 # Formal Responses
 
