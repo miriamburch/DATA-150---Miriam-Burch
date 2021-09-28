@@ -19,6 +19,8 @@ Hi I'm Miriam Burch and live in Northern Virginia, however; I'm half Spanish, ha
 
 4. [Human Development Essay](humandevelopment.md)
 
+5. [Get To Know Me](gettoknowme.md)
+
 # Formal Responses
 
 1. [Annotated Bibliography](annotatedbibliography.html)
