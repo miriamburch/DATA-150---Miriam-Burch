@@ -6,7 +6,7 @@ Word count:
 
 
 ### Article 1: Impacts of climate change on water resources in the Mediterranean Basin: a case study in Catalonia, Spain
-## ___________________________________________________________________________________________
+## _________________________________________________________________________________________________________________________________________________________________
 Source: Diana Pascual, Eduard Pla, Joan A. Lopez-Bustins, Javier Retana & Jaume
 Terradas (2015) Impacts of climate change on water resources in the Mediterranean Basin:
 a case study in Catalonia, Spain, Hydrological Sciences Journal, 60:12, 2132-2147, DOI:
