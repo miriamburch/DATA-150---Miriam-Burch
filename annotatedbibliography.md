@@ -41,7 +41,6 @@ This article relates to Amartya Sen’s definition of human development because 
 
 Source: Alan Buis, NASA's Jet Propulsion Laboratory. “Forty-five years of oceanographic and meteorological observations at a coastal station in the NW Mediterranean: a ground truth for satellite observations” June 23, 2020
 
-This article measures the air temperature and sea surface temperature in L’Estartit over many years. 
-
+This article measures the air temperature and sea surface temperature in L’Estartit (a small town on the north-eastern coast of Spain) over many years.  Local precipitation is going down, meaning that it has been raining less and sea level temperatures are goig up at a warming trend.  In fact, for every 10 years, the sea level is rising 3 centimeters and sea levels are expected to rise1 foot every 100 years. 
 
 This article relates to Amartya Sen’s definition of human development because climate change restricts the freedom of everyone living along the Mediterranean coast.  Due to erosion and sea level rises, one no longer has access to the beach, which is a large restriction of one’s freedom if one owns property near or on the beach.  Another limitation is that of economic freedom, as the impacts of climate change restrict economic development, meaning that one can’t build along the coast due to sea levels rising.  These effects also restrict the movement of tourism and decrease the fishing population, limiting the number of fish fishermen can catch and prevent overfishing to compensate for climate change. 
