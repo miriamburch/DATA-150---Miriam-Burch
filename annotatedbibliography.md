@@ -2,7 +2,7 @@ Miriam Burch
 
 27 September 2021
 
-Word count: 
+Word count: 2,253
 
 ### Article 1: Impacts of climate change on water resources in the Mediterranean Basin: a case study in Catalonia, Spain
 ## __________________________________________________________________________________________________________________________________________________________
