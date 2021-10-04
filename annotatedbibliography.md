@@ -6,7 +6,7 @@ Word count:
 
 
 Article 1: Impacts of climate change on water resources in the Mediterranean Basin: a case study in Catalonia, Spain
-____________________________________________________________________________________________________________________________________________________________________
+## ____________________________________________________________________________________________________________________________________________________________________
 
 Source: Diana Pascual, Eduard Pla, Joan A. Lopez-Bustins, Javier Retana & Jaume
 Terradas (2015) Impacts of climate change on water resources in the Mediterranean Basin:
@@ -18,7 +18,7 @@ Annotations: This case study describes the impacts of climate change on water re
 Amartya Sen believes that freedom is the essence of human development and the climate change issues mentioned in this article are directly related to his definition because there’s a restriction of freedom to consume more water.  The environmental dimension of human development is being addressed by the authors’ research in this article because climate change is affecting the water resources available in the Mediterranean Basin.  Based on the results of the study, water managers can identify major impacts of climate change on water resources at the regional and local levels.  In order to face climate change threats, this impact identification and quantification is vital and in order to come up with a solution, the analyses proven in this article needs to be incorporated into adaptive management along the Mediterranean coast. In terms of geospatial datasets, three catchments are selected in Catalonia (Fluvià, Tordera, and Siurana) and they are graphed in location and mean annual precipitation (in mm) for the 1951-2000 period.  A SWAT model was used to evaluate water resources based on climate, topography, land use, and soil type.  This model was then calibrated and validated at a daily time step with historical streamflow, reservoir levels, and reservoir management information in the Siurana catchment every 3 years over a period starting in 1984 and ending in 2008.  The hydrological cycle is being used as a scientific method in the three catchments, each under different climate change scenarios.  According to the article, “The process includes three main steps: (1) setting-up the hydrological model for the historical period (1984–2008) with observed streamflow and climate data; (2) generating climate projections based on the dynamic downscaling performed by the SMC, starting from the atmosphere-ocean coupled model ECHAM5/MPI-OM for A2 (medium-high greenhouse gas emissions) and B1 (medium-low emissions) IPCC scenarios; and (3) incorporating climate scenarios into the hydrological model to evaluate streamflow and evapotranspiration changes in the short term (2006–2030) and long term (2076–2100).”  The pattern investigated is the precipitation and temperature within each watershed.  Lastly, how climate change is affecting the availability of water in the Mediterranean region is the main scientific question in this article.
 
 Article 2: Climate change could tarnish the flavour of cava, study suggests
-____________________________________________________________________________________________________________________________________________________________________
+## ____________________________________________________________________________________________________________________________________________________________________
 
 Source: Daisy Dunne. “Climate change could tarnish the flavour of cava, study suggests” August 23, 2017 
 
@@ -28,7 +28,7 @@ This article relates to Amartya Sen’s definition of human development because 
 
 
 Article 3: Exacerbated fires in Mediterranean Europe due to anthropogenic warming projected with non-stationary climate-fire models
-____________________________________________________________________________________________________________________________________________________________________
+## ____________________________________________________________________________________________________________________________________________________________________
 
 Source: Turco, M., Rosa-Cánovas, J.J., Bedia, J. et al. Exacerbated fires in Mediterranean Europe due to anthropogenic warming projected with non-stationary climate-fire models. Nat Commun 9, 3821 (2018). https://doi.org/10.1038/s41467-018-06358-z
 
@@ -38,7 +38,7 @@ This article relates to Amartya Sen’s definition of human development because 
 
 
 Article 4: Forty-five years of oceanographic and meteorological observations at a coastal station in the NW Mediterranean: a ground truth for satellite observations
-____________________________________________________________________________________________________________________________________________________________________
+## ____________________________________________________________________________________________________________________________________________________________________
 
 Source: Alan Buis, NASA's Jet Propulsion Laboratory. “Forty-five years of oceanographic and meteorological observations at a coastal station in the NW Mediterranean: a ground truth for satellite observations” June 23, 2020
 
