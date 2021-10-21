@@ -1,0 +1,4 @@
+[I want to introduce you to another source of sociology-focused data: Our World in Data, founded by Max Roser.
+Select a topic you are curious about from the dropdown "Articles by topic". Technological Progress, for example. If the topic is lengthy, you can pick just a graph or two.
+Two cool things about the site are (1) there are concise descriptions of the topics, definitions of terms, and references; and (2) most ( if not all) the plots have their data available for download as a csv. Their COVID plots are some of the best and up-to-date. This one, for example is robust with its many metrics, but it's simple and easy to manipulate as well.
+Similar to 9/30's essay, write what topic (or graph(s)) you are looking at. Describe what you see. Are there trends? If so, what are they? Does anything surprise you? Where possible, connect what you see to previous readings, discussions, or your experiences.](https://ourworldindata.org/happiness-and-life-satisfaction)
