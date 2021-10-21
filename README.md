@@ -23,7 +23,7 @@ Hi I'm Miriam Burch and live in Northern Virginia, however; I'm half Spanish, ha
 
 6. [9/30 Gapminder Essay](gapminderessay.md)
 
-7. [10/7 Our World In Data Essay](ourworldindata.md)
+7. [10/7 Our World In Data Essay](ourworldindataessay.md)
 
 8. [10/12 China's Plan](chinasplan.md)
 
