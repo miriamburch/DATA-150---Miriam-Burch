@@ -11,21 +11,23 @@ Hi I'm Miriam Burch and live in Northern Virginia, however; I'm half Spanish, ha
 
 #  Informal Responses
 
-1. [9/9 Joshua Blumenstock Response](blumenstock.md)
+1. [9/7 Joshua Blumenstock](blumenstock.md)
 
-2. [9/11 Hans Rosling Response](hansrosling.md)
+2. [9/9 Hans Rosling](hansrosling.md)
 
-3. [9/21 Owen Barder Response](owenbarder.md)
+3. [9/21 Owen Barder](owenbarder.md)
 
-4. [9/23 Human Development Essay](humandevelopment.md)
+4. [9/23 Gettysburg Address & Human Development](humandevelopment.md)
 
 5. [9/28 Get To Know Me](gettoknowme.md)
 
-6. [9/30 Gapminder Essay](gapminderessay.md)
+6. [9/30 Gapminder](gapminderessay.md)
 
-7. [10/7 Our World In Data Essay](ourworldindataessay.md)
+7. [10/7 Our World In Data](ourworldindataessay.md)
 
-8. [10/12 China's Plan](chinasplan.md)
+8. [10/12 China BRI](chinasplan.md)
+
+9. [10/21 Data on Abundance](dataonabundance.md)
 
 # Formal Responses
 
