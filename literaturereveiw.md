@@ -1,3 +1,8 @@
+Miriam Burch
+
+20 October 2021
+
+Word Count: 4,725
 
 ## CLIMATE CHANGE IMPACTS IN CATALONIA, SPAIN
 
