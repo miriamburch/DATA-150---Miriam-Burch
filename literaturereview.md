@@ -9,16 +9,16 @@ Professor Brewer
 Word Count: 4,725
 
 
-CLIMATE CHANGE IMPACTS IN CATALONIA, SPAIN
+# CLIMATE CHANGE IMPACTS IN CATALONIA, SPAIN
 
 
-I.               INTRODUCTION
+### I.               INTRODUCTION
  
 Over the past decade, technology has evolved rapidly.  The techniques of data science, from machine learning, artificial intelligence and geotargeting to data visualization have significantly helped analyze regions most impacted by climate change.  By studying the effects and patterns of the change via the use of various methodologies, scientific methods, datasets and predictive analytics models, data scientists have helped our human development process.  Data scientists are continuously exploring and finding new ways to cope with climate change issues as they assimilate and compare data in order to predict future trends.  With these advancements, climate change is now viewed as a more complex human development process and adaptive solutions can be developed to help solve problems by locating and pinpointing areas in which changes need to be made that will impact climate targets. 
  
 Catalonia, the northeastern most region of Spain, is an ideal part of the world to study climate change because of its diverse geography including sea, coastline, mountains, rivers, cropland, and urban and rural areas.  This region has experienced temperature increases, drying climates, shortage of rainfall and sea temperature and sea level rises, especially in the summer months, all of which have been occurring at an accelerating rate in recent decades.  In particular, Barcelona, the capital of Catalonia, has undergone some of the worst impacts of climate change such as temperature rises, a significant decrease in precipitation and an increase in droughts and heatwaves.  This literature review focuses on three main areas within Catalonia that can easily be compared to other regions in the world:  (i) inland water resources; (ii) fires and anthropogenic warming; and (iii) oceanographic and coastal areas.  According to Amartya Sen, “The human being is an engine of change.  It is the enhancement of freedoms that allow people to lead lives that they have reason to live.”  Expanding people’s choices gives them more freedom and opportunities to live a life they truly value.  Sen believes that freedom is the essence of human development and the climate change issues in the region of Catalonia are directly related to his definition because there’s a restriction of freedom to consume more water, to move (in terms of there being a forest fire near your home), to grow crops, and finally to even live along the Mediterranean coast.  Additionally, there’s also a restriction on economic freedom, as the impacts of climate change restrict economic development, meaning that one can’t build along the coast due to sea levels rising or erosion.  These effects also restrict the movement of tourism and decrease the fishing population, limiting the number of fish caught and preventing overfishing to compensate for climate change.  Through a critical analysis of the literature relating to climate change in three main areas of Catalonia, we will identify which social, economic and environmental data sets and data science methods can best inform policy decisions to help find solutions within this complex adaptive system.
  
-II. INLAND WATER RESOURCES
+### II. INLAND WATER RESOURCES
  
 A. REGIONAL TRENDS
  
@@ -34,7 +34,7 @@ Another article, Climate Change Implications for Water Availability: A Case Stud
  
 Both of these articles describe the practical effects of Catalonia’s water trends in the recent decades, as precipitation has significantly decreased and the city of Barcelona has experienced various water shortages, as well as what measures are being taken to address the shortages.  On the infrastructure side, Barcelona’s new water facility seems to be a solid solution that will address draught situations for the foreseeable future.  When coupled with the new HBV model to forecast drought situations, the greater Catalan region will also benefit from the new data science methods and hopefully policy makers will pay close attention to these forecasts, adapting climate change solutions as necessary.  While draught and water shortages play a key role in formulating data science models within Catalonia, so too do fires and anthropogenic warming.    
  
- III. FIRES AND ANTHROPOGENIC WARMING 
+ ### III. FIRES AND ANTHROPOGENIC WARMING 
  
             A.        REGIONAL TRENDS
  
@@ -48,7 +48,7 @@ The article, Climate change could tarnish the flavour of cava, study suggests, r
  
 The dimension of human development being addressed by the authors’ research is environmental because it is related to how recent climate change growth has tarnished the flavour of cava through the combination of warming temperatures and drier conditions.  But two additional dimensions are also present:  economic and social.  The sustainable development goal for this article would be to reverse the devastating effects that climate change has on the grapes that go into cava production.  In terms of datasets, charts are made in order to “illustrate how climate change could shorten the periods of first budding, ripening, harvesting and the overall growing season of Chardonnay, Macabeo and Parellada grape varieties.” (5)  Scientists are investigating the pattern of how warm temperatures and dry conditions affect the ripening, harvest, shift in the growing season and overall flavour of the wine. The scientific question the authors are seeking to answer is how to prevent the grapes from being so powerfully impacted by climate change.  Just as draught and warming are playing a major role in formulating models and policies to help mitigate the effects of climate change, so too does modelling of Catalonia’s oceanographic and coastal areas—the third main area reviewed in the literature. 
  
- IV. OCEANOGRAPHIC AND COASTAL AREAS
+ ### IV. OCEANOGRAPHIC AND COASTAL AREAS
  
             A.        REGIONAL TRENDS
  
@@ -62,14 +62,14 @@ In Managing Coastal Environments under Climate Change: Pathways to Adaptation, c
  
 According to Erosion consequences on beach functions along the Maresme coast (NW Mediterranean, Spain), “the main aim is to present a methodology to analyze erosion consequences at a regional scale, considering the implications of processes acting at different timescales affecting coastal functions.” (8)  The article, consistent with other literature on the subject, argues that southern municipalities are more likely to suffer from erosion “affecting the protection function of the beach and leisure use by the local population, whereas erosion will have a greater effect on foreign tourism in the northern municipalities.” (8)  The results of these studies underline the need to apply “an articulated erosion risk assessment focusing on specific targets depending on the site in question.” (8)  In a more structured and long-lasting approach, this procedure can further help coastal managers to acquire measured actions to deal with the impacts of erosion.  Because there are larger population concentrations and developing human activities are more attracted to these areas, coastal zones are among one of the most highly threatened areas which “increases the potential effects of damage by natural and human-induced hazards.” (8)   According to the authors, “beach erosion not only poses a risk to existing assets, but also causes a significant setback to recreation and tourism and, consequently, threatens one of the most important sources of the economy in coastal regions.” (8)  To help solve this issue, the article develops a “methodology to assess coastal erosion impacts at different timescales and at regional scale which has been framed within the SPRC model (Source-Pathway-Receptor-Consequence model), where consequences are determined in accordance with coastal characteristics and management interests.” (8)  The data analyzed in this area demonstrates “the need to include specific indicators for tourism and leisure”, which “permit the proper reflection of regional differences in tourism development, while the use of beaches is equally important along the region.” (8)  Lastly, the authors argue that “by considering multiple erosion components, beach functions, and socio-economic values, it is possible to manage erosion to accomplish more specific goals, in a more efficient and sustainable manner.” (8)
  
- V.     	CONCLUSION
+ ### V.     	CONCLUSION
  
 Dealing with the effects of climate change in Catalonia has not been easy for local municipalities or the regional government.  Through a critical analysis of the literature relating to climate change in three main areas—inland water resources, fires and anthropogenic warming, and oceanographic and coastal areas—we see that each presents a unique challenge and, consequently, each requires a unique solution.  In one case (inland water resources) the challenge involves more of an environmental and economic approach, while in the others (fires/anthropogenic warming and oceanographic/coastal areas) a multifactor approach dealing with the social, economic and environmental impacts of climate change must be addressed simultaneously to overcome the problems at hand.
  
 No matter which data set or data science method one looks at across the literature, one overarching theme presents itself:  In order to overcome the effects of climate change, an integrated, long-term and adaptive policy framework is required at the level of regional government in close cooperation with local municipalities, informed by robust and predictive modelling with incremental interventions ready to be undertaken.  As tourism is extremely important to the regional economy in Catalonia (Barcelona having the largest cruise ship port in the Mediterranean and one of the busiest airports in Europe), this begs the important question:  Why is there no research on the effects of tourism on climate change in Catalonia?  Even though regional and local politicians might not like the outcome of these studies, this gap in the literature needs to be addressed immediately and constitutes an important focus for future research.
  
  
- REFERENCES
+ ### REFERENCES
  
 (1) Diana Pascual, Eduard Pla, Joan A. Lopez-Bustins, Javier Retana & Jaume Terradas (2015) Impacts of climate change on water resources in the Mediterranean Basin: a case study in Catalonia, Spain, Hydrological Sciences Journal, 60:12, 2132-2147, DOI:10.1080/02626667.2014.947290
  
