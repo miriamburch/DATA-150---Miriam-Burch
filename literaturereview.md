@@ -82,3 +82,9 @@ No matter which data set or data science method one looks at across the literatu
 (5) Daisy Dunne. “Climate change could tarnish the flavour of cava, study suggests” August 23, 2017.
  
 (6) Alan Buis, NASA's Jet Propulsion Laboratory. “Forty-five years of oceanographic and meteorological observations at a coastal station in the NW Mediterranean: a ground truth for satellite observations” June 23, 2020.
+
+(7) Sánchez-Arcilla, A., et al., Managing coastal environments under climate change: Pathways to adaptation, Sci Total Environ (2016), http://dx.doi.org/10.1016/j.scitotenv.2016.01.124
+
+(8) Ballesteros, C., Jiménez, J.A., Valdemoro, H.I. et al. Erosion consequences on beach
+functions along the Maresme coast (NW Mediterranean, Spain). Nat Hazards 90, 173–195
+(2018). https://doi.org/10.1007/s11069-017-3038-5
