@@ -9,10 +9,10 @@ Professor Brewer
 Word Count: 4,725
 
 
-# CLIMATE CHANGE IMPACTS IN CATALONIA, SPAIN
+## CLIMATE CHANGE IMPACTS IN CATALONIA, SPAIN
 
 
-### I.               INTRODUCTION
+### I. INTRODUCTION
  
 Over the past decade, technology has evolved rapidly.  The techniques of data science, from machine learning, artificial intelligence and geotargeting to data visualization have significantly helped analyze regions most impacted by climate change.  By studying the effects and patterns of the change via the use of various methodologies, scientific methods, datasets and predictive analytics models, data scientists have helped our human development process.  Data scientists are continuously exploring and finding new ways to cope with climate change issues as they assimilate and compare data in order to predict future trends.  With these advancements, climate change is now viewed as a more complex human development process and adaptive solutions can be developed to help solve problems by locating and pinpointing areas in which changes need to be made that will impact climate targets. 
  
@@ -62,7 +62,7 @@ In Managing Coastal Environments under Climate Change: Pathways to Adaptation, c
  
 According to Erosion consequences on beach functions along the Maresme coast (NW Mediterranean, Spain), “the main aim is to present a methodology to analyze erosion consequences at a regional scale, considering the implications of processes acting at different timescales affecting coastal functions.” (8)  The article, consistent with other literature on the subject, argues that southern municipalities are more likely to suffer from erosion “affecting the protection function of the beach and leisure use by the local population, whereas erosion will have a greater effect on foreign tourism in the northern municipalities.” (8)  The results of these studies underline the need to apply “an articulated erosion risk assessment focusing on specific targets depending on the site in question.” (8)  In a more structured and long-lasting approach, this procedure can further help coastal managers to acquire measured actions to deal with the impacts of erosion.  Because there are larger population concentrations and developing human activities are more attracted to these areas, coastal zones are among one of the most highly threatened areas which “increases the potential effects of damage by natural and human-induced hazards.” (8)   According to the authors, “beach erosion not only poses a risk to existing assets, but also causes a significant setback to recreation and tourism and, consequently, threatens one of the most important sources of the economy in coastal regions.” (8)  To help solve this issue, the article develops a “methodology to assess coastal erosion impacts at different timescales and at regional scale which has been framed within the SPRC model (Source-Pathway-Receptor-Consequence model), where consequences are determined in accordance with coastal characteristics and management interests.” (8)  The data analyzed in this area demonstrates “the need to include specific indicators for tourism and leisure”, which “permit the proper reflection of regional differences in tourism development, while the use of beaches is equally important along the region.” (8)  Lastly, the authors argue that “by considering multiple erosion components, beach functions, and socio-economic values, it is possible to manage erosion to accomplish more specific goals, in a more efficient and sustainable manner.” (8)
  
- ### V.     	CONCLUSION
+ ### V. CONCLUSION
  
 Dealing with the effects of climate change in Catalonia has not been easy for local municipalities or the regional government.  Through a critical analysis of the literature relating to climate change in three main areas—inland water resources, fires and anthropogenic warming, and oceanographic and coastal areas—we see that each presents a unique challenge and, consequently, each requires a unique solution.  In one case (inland water resources) the challenge involves more of an environmental and economic approach, while in the others (fires/anthropogenic warming and oceanographic/coastal areas) a multifactor approach dealing with the social, economic and environmental impacts of climate change must be addressed simultaneously to overcome the problems at hand.
  
