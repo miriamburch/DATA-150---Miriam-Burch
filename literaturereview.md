@@ -1,5 +1,9 @@
 Miriam Burch
 
+DATA 150: Data Science for Human Development
+
+Professor Brewer
+
 20 October 2021
 
 Word Count: 4,725
