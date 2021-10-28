@@ -29,6 +29,8 @@ Hi I'm Miriam Burch and live in Northern Virginia, however; I'm half Spanish, ha
 
 9. [10/21 Data on Abundance](dataonabundance.md)
 
+10. [10/28 Essay](1028essay.md)
+
 # Formal Responses
 
 1. [Annotated Bibliography](annotatedbibliography.md)
