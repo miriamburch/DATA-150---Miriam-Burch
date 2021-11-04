@@ -1,6 +1,6 @@
-11/4 Essay: We have five reading/watching slots left on our schedule. I'm looking to replace one that's there now I think is on the weaker side (Thursday 11/18) and I want your help. What topic haven't we discussed (or will discuss) within the realm of data science and/or human development that you would like covered and discussed in class? Is there a particular video or reading you are aware of that you like or think is valuable that you want the rest of the class to see/read? Briefly explain your thoughts and provide a link, if applicable.
+#### 11/4 Essay: We have five reading/watching slots left on our schedule. I'm looking to replace one that's there now I think is on the weaker side (Thursday 11/18) and I want your help. What topic haven't we discussed (or will discuss) within the realm of data science and/or human development that you would like covered and discussed in class? Is there a particular video or reading you are aware of that you like or think is valuable that you want the rest of the class to see/read? Briefly explain your thoughts and provide a link, if applicable.
  
-#### The data science careers shaping our future and what we can do with a data science degree:
+### The data science careers shaping our future and what we can do with a data science degree:
 
 [https://www.northeastern.edu/graduate/blog/data-science-careers-shaping-our-future/](https://www.northeastern.edu/graduate/blog/data-science-careers-shaping-our-future/) 
 
