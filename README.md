@@ -35,6 +35,8 @@ Hi I'm Miriam Burch and live in Northern Virginia, however; I'm half Spanish, ha
 
 12. [11/4 Essay](114essay.md)
 
+14. [11/9 Essay](119essay.md)
+
 # Formal Responses
 
 1. [Annotated Bibliography](annotatedbibliography.md)
