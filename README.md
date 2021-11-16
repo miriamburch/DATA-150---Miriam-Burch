@@ -29,13 +29,17 @@ Hi I'm Miriam Burch and live in Northern Virginia, however; I'm half Spanish, ha
 
 9. [10/21 Data on Abundance](dataonabundance.md)
 
-10. [10/28 Essay](1028essay.md)
+10. [10/28 What is Data Science?](1028essay.md)
 
-11. [11/2 Essay](112essay.md)
+11. [11/2 HDI](112essay.md)
 
-12. [11/4 Essay](114essay.md)
+12. [11/4 Recommendation](114essay.md)
 
-14. [11/9 Essay](119essay.md)
+14. [11/9 Facial Recognition](119essay.md)
+
+15. [11/11 COVID Effects](1111essay.md)
+
+16. [11/16 Self-Driving Vehicles](1116essay.md)
 
 # Formal Responses
 
