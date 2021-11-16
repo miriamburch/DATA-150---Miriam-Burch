@@ -1,1 +1,1 @@
-
+[Do you think additional information or data could be added to the HDI calculation to possibly improve it or make it a more accurate measurement of human development? If yes, what things? If no, why no? Keep in mind the conversation with Tyler Cowen.](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) 
