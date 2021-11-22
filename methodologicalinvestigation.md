@@ -34,8 +34,6 @@ An environmental dimension of human development is being addressed by the author
 
 <img width="175" alt="Screen Shot 2021-11-22 at 2 55 12 AM" src="https://user-images.githubusercontent.com/89988425/142823883-486f4540-ebc9-4598-9cca-ce6980373270.png">
 
-<img width="699" alt="Screen Shot 2021-11-22 at 2 55 58 AM" src="https://user-images.githubusercontent.com/89988425/142823889-4a350be5-e3f5-4465-8d24-049ea539367e.png">
-
 
 ### B. COMPUTATIONAL DESCRIPTION
 
@@ -51,7 +49,9 @@ For climate trend analyses, “the primary measurements (all temperatures and se
 
 According to the article, “during the last years, the dataset has been used in many scientific papers related to climate research and to document extreme events such as cold or heatwaves, storms and their consequences on neritic ecosystems.” (2) Robust estimates of annual trends of sea temperature from SST (0.03 °C/year), S80T (0.02 °C/year), AT (0.05 °C/year) and sea level (3.1 mm/year) are presented.” (2) Two graphs in particular (“a” and “b”) illustrate climate satellites that focus on sea surface temperature (heat) and both serve to cross-check the data set of the other. Graph “b” is a close-up of graph “a” from March 2016 to December 2018 and to pinpoint this data, the authors use “multi-scale Ultra-high Resolution (MUR) analysis from the NASA Jet Propulsion Laboratory.” (2)  Various satellite-based sea surface temperature (SST) analysis data sets were utilized to compare statistics from previous years. The authors are investigating the pattern of which sea levels rise and coastal flooding carries sand along the coast. How these patterns occurred from the start and how they can be prevented offshore L’Estartit is the scientific question the authors are seeking to answer.  
 
-Both of these data methods are complimentary towards one another because looking at ports a and b in the maps below relates to the sea level rise and helps us further understand how and why sea level temperatures are rising and coasts are eroding more rapidly.    
+Both of these data methods are complimentary towards one another because looking at ports a and b in the maps below relates to the sea level rise and helps us further understand how and why sea level temperatures are rising and coasts are eroding more rapidly.   
+
+<img width="500" alt="Screen Shot 2021-11-22 at 2 55 58 AM" src="https://user-images.githubusercontent.com/89988425/142823889-4a350be5-e3f5-4465-8d24-049ea539367e.png">
 
 ### C. COMPARISON OF METHODS 
 
@@ -59,21 +59,35 @@ Both of these data methods are complimentary towards one another because looking
 
 The Gava municipality has proposed a maintenance plan where the main target is to safeguard a minimum emerged width. “Based on this an initial plan has been designed taking the sediment from the emerging and shallow neighbouring beaches instead of looking for sources outside the littoral cell. Sediment placement has also been designed to have a smooth coastline shape in order to reduce longshore sediment transport gradients.  At the back beach, an ephemeral small dune of 1.5 m has been proposed to protect infrastructures from storm events of 15 years return period. The dune also acts as a sediment buffer which will naturally feed the area, thus enhancing the presence of an emerged beach. Fig. 7 below shows the dune/beach profile response at different locations selected for testing the design using a modified XBEACH model. The parameters of the model have been calibrated with similar dissipative beaches in the neighbourhood.” (1)
 
+<img width="254" alt="Screen Shot 2021-11-22 at 3 03 20 AM" src="https://user-images.githubusercontent.com/89988425/142824831-6929aea7-7665-4b12-a4cd-1e88c5fd52ac.png">
+
+<img width="500" alt="Screen Shot 2021-11-22 at 3 03 03 AM" src="https://user-images.githubusercontent.com/89988425/142824844-9a4724c3-aa96-4688-a1b1-9d1eb09813e9.png">
+
+
 #### 2. Oceanographic and Meteorological Observations at a Coastal Station in Catalonia
 
-In terms of the data analyzed vs the current satellite producers for the oceanographic and meteorological observations, “The L’Estartit sea surface temperature (SST) time series agrees quite well with the SST time series derived from the various satellite-based data sets down below, with an RMS difference of consistently just over 0.5 °C. This is comparable with the typical minimum uncertainty in satellite SST measurement of 0.3–0.5 °C. The satellite SST is cooler than the L’Estartit SST by 0.1 to 0.2 °C on average. A potential cause for this bias is the diurnal warming of sea temperature, meaning that while the satellite data sets are aiming to report the pre-dawn temperature, the L’Estartit measurements are performed mostly in the late morning to noon.  The feature resolution (smoothness of the SST field) of the satellite data sets used are noted and vary vastly from around 1 up to 100 km, with the OSTIA and NCEI data sets having a similar feature resolution of around 100 km despite having fairly different grid spacing.  The comparison statistics (RMS and bias) are remarkably consistent across feature resolutions up to 25 km, and degrade only by 0.1 to 0.2 °C for the OSTIA and NCEI data sets. This indicates that the temporal variability of the L’Estartit time series is representative of the areal average SST from the surrounding sea.” (2)  The graph below represents the time series of sea surface temperatures recorded from the L'Estartit site and from Multi-scale Ultra-high Resolution analysis.  
+In terms of the data analyzed vs the current satellite producers for the oceanographic and meteorological observations, “The L’Estartit sea surface temperature (SST) time series agrees quite well with the SST time series derived from the various satellite-based data sets down below, with an RMS difference of consistently just over 0.5 °C. This is comparable with the typical minimum uncertainty in satellite SST measurement of 0.3–0.5 °C. The satellite SST is cooler than the L’Estartit SST by 0.1 to 0.2 °C on average. A potential cause for this bias is the diurnal warming of sea temperature, meaning that while the satellite data sets are aiming to report the pre-dawn temperature, the L’Estartit measurements are performed mostly in the late morning to noon.  The feature resolution (smoothness of the SST field) of the satellite data sets used are noted and vary vastly from around 1 up to 100 km, with the OSTIA and NCEI data sets having a similar feature resolution of around 100 km despite having fairly different grid spacing.  The comparison statistics (RMS and bias) are remarkably consistent across feature resolutions up to 25 km, and degrade only by 0.1 to 0.2 °C for the OSTIA and NCEI data sets. This indicates that the temporal variability of the L’Estartit time series is representative of the areal average SST from the surrounding sea.” (2)  The graph below represents the time series of sea surface temperatures recorded from the L'Estartit site and from Multi-scale Ultra-high Resolution analysis. 
+
+<img width="500" alt="Screen Shot 2021-11-22 at 3 04 44 AM" src="https://user-images.githubusercontent.com/89988425/142824984-ac3e6d5c-6250-405d-9171-11e46f755903.png">
 
 ### D. FINDINGS 
+
 #### 1. Coastal Erosion in Catalonia 
 In the first data method, the averaged loss of sand with the transient dune during storms (spanning from 5 to 15 years return periods) is around 15,000 m3 . Water depths from 0 to 2 m present an accretive behaviour (around 7000 m3 ). Longshore currents also play an important role (around 0.4 m/s in average), with littoral drift mobilising significant sand volumes southwards. (1)
 
 In fact, the emerged zone flattens when the dune collapses.  In Fig. 7 below, the dune starts to fail not under a collision regime (erosion at the offshore side) but because of overtopping volumes from the storm peak. The dune can withstand increases of 40 cm in mean sea levels that would correspond to a present storm surge or a future climatic rise. Beyond that point, the dune entirely collapses and sea level has a more prominent effect in the morphodynamic signature. This is because as waves increase, more sediment can be advected onshorewards, reaching a maximum for elevations between 1.5 and 2 m.  I think that placing a dune and following the plan which they have been analyzing is necessary in the case of coastal erosion because human industrialization and development is being incorporated more and more along coasts nowadays and such infrastructure is preventing sediments from coming down to replenish the beaches.  Additionally, creating these dunes are simply more economically efficient. (1)
+
+<img width="254" alt="Screen Shot 2021-11-22 at 3 03 20 AM" src="https://user-images.githubusercontent.com/89988425/142825265-1c5b02bf-41cc-4f00-bf76-15ba5dd840ee.png">
+
+<img width="450" alt="Screen Shot 2021-11-22 at 3 03 31 AM" src="https://user-images.githubusercontent.com/89988425/142825271-3beeaf54-4450-41b9-aadb-2b672ed9c412.png">
 
 #### 2. Oceanographic and Meteorological Observations at a Coastal Station in Catalonia 
 
 “The average annual cycle of air and SST (Fig. 4a) shows that from late winter-early spring to mid-summer, SST is lower than air temperature while during the rest of the year, the situation is reversed. The initial and ending days for the period when SST are colder than air temperature is presented in Fig. 4b. There is a successive advancement of the starting point of the period (p < 0.0001) while the delay in ending point is less significant (p < 0.01, i.e., still within 99%). Such behaviour has a relevant role in the air-sea interaction, in particular concerning sea water evaporation/condensation, and thus in the local water cycle.” (2)
 
 In regards to the charts above, graph a is the mean annual cycle (1974–2018) of monthly air and sea surface temperature.  Essentially, it's the period when air temperature is higher than sea surface temperature.  Graph b is the time evolution of the period when air temperature is higher than sea surface temperature.  The blue points indicate the initial day of this period, the pink points the end and the lines show the linear fitting.  
+
+<img width="507" alt="Screen Shot 2021-11-22 at 3 06 35 AM" src="https://user-images.githubusercontent.com/89988425/142825196-616ece31-4c88-4285-b5d0-531b5e6a4786.png">
 
 ### III. CONCLUSION
 Dealing with the effects of climate change in Catalonia has not been easy for local municipalities or the regional government. Through a critical analysis of the investigation relating to climate change in three main areas—inland water resources, fires and anthropogenic warming, and oceanographic and coastal areas—we see that each presents a unique challenge and, consequently, each requires a unique solution. In one case (inland water resources) the challenge involves more of an environmental and economic approach, while in the others (fires/anthropogenic warming and oceanographic/coastal areas) a multifactor approach dealing with the social, economic and environmental impacts of climate change must be addressed simultaneously to overcome the problems at hand.
