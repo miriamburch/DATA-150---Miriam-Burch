@@ -1,3 +1,14 @@
+Miriam Burch
+
+DATA 150: Data Science for Human Development
+
+Professor Brewer
+
+21 November 2021
+
+Word Count: 2,894
+
+
 # METHODOLOGICAL INVESTIGATION: COASTAL EROSION IN CATALONIA
 
 ## I. INTRODUCTION
