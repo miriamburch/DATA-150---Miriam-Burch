@@ -41,7 +41,7 @@ An environmental dimension of human development is being addressed by the author
 
 Local interventions for coastal sustainability are gathered into two different groups: 1) working with nature (reed beds at the Danube Delta, restoration of dunes at Inch, overwash enhancement at Ebro Delta) and 2) Transient Defence Measures (TDM), such as the fuse dune system at Llobregat Delta.  This TDM method consists of coastal protection based on specific actions that should be deployed before extreme events occur.  The interest in these interventions will grow in a changing climate because of enhanced flooding and erosion due to sea-level rise and increases in population, which will also raise social and economic vulnerability.  Eventually, TDM will become more competitive because they present lower costs and impacts than conventional engineering solutions and offer added flexibility based on local resources.  Such an approach, however, requires the support of an early warning system to predict the storm impact with enough advance time to deploy the TDM for the more vulnerable coastal sectors. (1)
 
-<img width="400" alt="Screen Shot 2021-11-22 at 2 42 12 AM" src="https://user-images.githubusercontent.com/89988425/142823302-383f0733-0004-4fe6-b4d4-3c661aad71b6.png">
+<img width="500" alt="Screen Shot 2021-11-22 at 2 42 12 AM" src="https://user-images.githubusercontent.com/89988425/142823302-383f0733-0004-4fe6-b4d4-3c661aad71b6.png">
 
 #### 2. Oceanographic and Meteorological Observations at a Coastal Station in Catalonia 
 
