@@ -32,7 +32,7 @@ This article, Forty-five Years of Oceanographic and Meteorological Observations 
 
 An environmental dimension of human development is being addressed by the authors’ research as climate change is the main factor in causing erosion along the coast. The development goal that can be considered in relation to this article is the analysis of the sea-level rise and temperature increase. One solution would be to not rake the beach so often, preventing erosion from occurring.
 
-<img width="400" alt="Screen Shot 2021-11-22 at 2 55 12 AM" src="https://user-images.githubusercontent.com/89988425/142823883-486f4540-ebc9-4598-9cca-ce6980373270.png">
+<img width="330" alt="Screen Shot 2021-11-22 at 2 55 12 AM" src="https://user-images.githubusercontent.com/89988425/142823883-486f4540-ebc9-4598-9cca-ce6980373270.png">
 
 
 ### B. COMPUTATIONAL DESCRIPTION
