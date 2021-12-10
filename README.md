@@ -51,7 +51,7 @@ Hi I'm Miriam Burch and live in Northern Virginia.  I'm half Spanish, half Ameri
 
 4. [Final Presentation](finalpresentation.md)
 
-5. [Research Proposal](researchproposal.html)
+5. [Research Proposal](researchproposal.md)
 
 
 
