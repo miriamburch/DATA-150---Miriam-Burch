@@ -6,7 +6,7 @@ Professor Brewer
 
 6 December 2021
 
-Word Count: 
+Word Count: 1928
 
 
 #### TITLE OF PROPOSED PROJECT: 
