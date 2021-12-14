@@ -10,8 +10,7 @@ Word Count:
 
 
 #### TITLE OF PROPOSED PROJECT: 
-
-
+CLIMATE CHANGE IMPACTS IN CATALONIA, SPAIN
  
 ##### I.                 OVERVIEW
 
