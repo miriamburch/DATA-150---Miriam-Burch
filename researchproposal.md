@@ -9,7 +9,8 @@ Professor Brewer
 Word Count: 
 
 
-#### RESEARCH PROPOSAL
+#### TITLE OF PROPOSED PROJECT: 
+
 
  
 ##### I.                 OVERVIEW
